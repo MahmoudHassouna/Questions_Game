@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Questions Game</string>
+    <string name="did_you_forget_your_password">Did you forget your password</string>
+    <string name="login">Login</string>
+</resources>
